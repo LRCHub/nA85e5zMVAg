@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ローリンガール Cover / めいちゃん",
+  "base_artist": "めいちゃん",
+  "createdAt": "2026-02-13T12:47:32.187929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/01_ローリンガール_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ローリンガール 風林火山編",
+      "artist": "acane_madder×wowaka",
+      "has_synced": false,
+      "path": "select/02_ローリンガール_風林火山編_acane_madder×wowaka.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ローリンガール　風林火山編",
+      "artist": "wowaka",
+      "has_synced": false,
+      "path": "select/03_ローリンガール_風林火山編_wowaka.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ローリンガール 風林火山編",
+      "artist": "acane_madder",
+      "has_synced": false,
+      "path": "select/04_ローリンガール_風林火山編_acane_madder.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "wowaka/初音ミク",
+      "has_synced": false,
+      "path": "select/05_ローリンガール_wowaka_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "海賊王, [TEST] & Hatsune Miku",
+      "has_synced": true,
+      "path": "select/06_ローリンガール_海賊王,_[TEST]_&_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/07_ローリンガール_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "wowaka (現実逃避P) Feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/08_ローリンガール_wowaka_(現実逃避P)_Feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/09_ローリンガール_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/10_ローリンガール_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "wowaka(現実逃避P) feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/11_ローリンガール_wowaka(現実逃避P)_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "wowaka feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/12_ローリンガール_wowaka_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "wowaka feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/13_ローリンガール_wowaka_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "wowaka feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/14_ローリンガール_wowaka_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ローリンガール",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/15_ローリンガール_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ローリンガール -風林火山編-",
+      "artist": "wowaka",
+      "has_synced": false,
+      "path": "select/16_ローリンガール_-風林火山編-_wowaka.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rolling Girl (ローリンガール)",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/17_Rolling_Girl_(ローリンガール)_wowaka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ローリンガール",
+      "artist": "めいちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_ローリンガール_めいちゃん.txt"
+    }
+  ]
+}
